@@ -1,0 +1,3 @@
+<object width="800" height="600" data="GreenEating.swf"></object>
+
+<p><a href="http://mvpet.github.io/GreenEating/">Back to Hunger Game Page</a></p>
